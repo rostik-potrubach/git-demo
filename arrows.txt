@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-Тысяча горящих стрел
-
-Заполните звездное небо
-=======
-The ship glides gently on the waves
-As day turns into night
->>>>>>> feature
